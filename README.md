@@ -1,3 +1,3 @@
 # Xplosion
-Learning programmong
+Learning programming
 
